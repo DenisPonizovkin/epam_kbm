@@ -1,0 +1,10 @@
+*\.~*
+*\.s*
+*.ddp
+*\.obj
+*\.exe
+*\.accdb
+*\.res
+*\.tds
+*\.ldb
+
